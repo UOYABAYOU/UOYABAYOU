@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.png" alt="UOYABAYOU. Learning by doing. Building with AI." width="100%">
+</p>
 
-<!--
-**UOYABAYOU/UOYABAYOU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey, I'm Bayou.
 
-Here are some ideas to get you started:
+I work in beer sales and distribution, and I build practical software with AI. Most of my projects start with something I want to make easier, understand better, or stop doing manually.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work on
+
+- **Useful tools:** simplifying everyday tasks and business workflows.
+- **Data and dashboards:** turning scattered information into something I can act on.
+- **Automation:** connecting tools and cutting down repetitive work.
+
+### How I build
+
+Start with a real problem. Build a small version. Test it. Improve what works.
+
+I'm learning by doing, with AI helping me move from an idea to working software.
